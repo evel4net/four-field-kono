@@ -1,4 +1,4 @@
-# ❋ Four-field Kono game
+# ❋ Four-Field Kono Game
 Four-field Kono point-and-click game made in python (using pygame) for a university CS assignment. The game is human vs. computer. 
 
 ## About four-field kono
@@ -23,7 +23,7 @@ Four-field kono is a korea strategy game being recorded to have been played sinc
 - A player wins if the opponent has only one piece left (cannot capture with only one piece) or the opponent is immobilized (cannot move or capture anymore)
 
 ## How to run the game
-Make sure you have [python](https://www.python.org/downloads/) installed. Clone the repository and open the project in your preferred IDE.
+Make sure you have [Python](https://www.python.org/downloads/) installed. Clone the repository and open the project in your preferred IDE.
 Run the `main.py` file to start the game.
 
 ## Screenshots
