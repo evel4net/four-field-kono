@@ -11,7 +11,7 @@ Four-field kono is a korea strategy game being recorded to have been played sinc
 <p align="center"><img src="/screenshots/capturing_move.gif" width="25%"/></p>
 
 
-3. MOVE TO EMPTY CELL --> player's can move a piece to a near empty cell <br>
+2. MOVE TO EMPTY CELL --> player's can move a piece to a near empty cell <br>
 <p align="center"><img src="/screenshots/empty_cell_move.gif" width="25%"/></p>
 
 ### Game rules
