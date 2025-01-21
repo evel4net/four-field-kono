@@ -1,8 +1,8 @@
-# ❋ Four-field Kono game
-Four-field Kono point-and-click game made in python (using pygame) for a university CS assignment. The game is human vs. computer. 
+# ❋ Four-field Kono Game
+Four-field Kono point-and-click game made in Python (using pygame) for a university CS assignment. The game is human vs. computer. 
 
 ## About four-field kono
-Four-field kono is a korea strategy game being recorded to have been played since the late 19th century. The game is played on a 4x4 board with 16 pieces: 8 black pieces and 8 white pieces.
+Four-field Kono is a korean strategy game being recorded to have been played since the late 19th century. The game is played on a 4x4 board with 16 pieces: 8 black pieces and 8 white pieces.
 
 ### Move types 
 !! moves are executed orthogonally, not diagonally
@@ -20,11 +20,14 @@ Four-field kono is a korea strategy game being recorded to have been played sinc
 
 - first player has to execute a capturing move because the board is full and there are no empty cells 
 - players take turns, each executing only one move per turn
-- A player wins if the opponent has only one piece left (cannot capture with only one piece) or the opponent is immobilized (cannot move or capture anymore)
+- a player wins if the opponent has only one piece left (cannot capture with only one piece) or the opponent is immobilized (cannot move or capture anymore)
 
 ## How to run the game
-Make sure you have [python](https://www.python.org/downloads/) installed. Clone the repository and open the project in your preferred IDE.
-Run the `main.py` file to start the game.
+<u>*Option 1*</u>: 
+    Clone the repository and open the project in your preferred IDE. Make sure you have [Python](https://www.python.org/downloads/) installed. Run the `main.py` file to start the game.
+
+<u>*Option 2*</u> (for Windows):
+    Download the `FourFieldKono-Windows-exe.zip` file, unzip it and run the `main.exe` file.
 
 ## Screenshots
 <p align="center">
