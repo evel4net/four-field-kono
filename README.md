@@ -24,7 +24,7 @@ Four-field Kono is a korean strategy game being recorded to have been played sin
 
 ## How to run the game
 <u>*Option 1*</u>: 
-    Clone the repository and open the project in your preferred IDE. Make sure you have [Python](https://www.python.org/downloads/) installed. Run the `main.py` file to start the game.
+    Clone the repository and open the project in your preferred IDE. Make sure you have [Python](https://www.python.org/downloads/) and [pygame](https://www.pygame.org/wiki/GettingStarted) installed. Run the `main.py` file to start the game.
 
 <u>*Option 2*</u> (for Windows):
     Download the `FourFieldKono-Windows-exe.zip` file, unzip it and run the `main.exe` file.
