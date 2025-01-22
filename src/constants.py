@@ -62,16 +62,15 @@ COMPUTER_PIECE_IMAGE = pygame.image.load(os.path.join("gui", "assets", "Black_pi
 COMPUTER_PIECE = pygame.transform.scale(COMPUTER_PIECE_IMAGE, (CELL_SIZE, CELL_SIZE))
 
 # --- texts
-
-FONT_NAME = 'kozgoprolightopentype'
+FONT_NAME_PATH = os.path.join("gui", "assets", "KozGoPro-Light.otf")
 FONT_COLOR = '#26160F'
 MENU_SPACING = 50
 TEXT_SPACING = 10
 
-TITLE_FONT = pygame.font.SysFont("Viner Hand ITC", 60)
-BUTTON_FONT = pygame.font.SysFont(FONT_NAME, 30)
-TEXT_FONT = pygame.font.SysFont(FONT_NAME, 17)
-PLAYER_TURN_FONT = pygame.font.SysFont(FONT_NAME, 40)
+TITLE_FONT = pygame.font.Font(os.path.join("gui", "assets", "VINERITC.TTF"), 60)
+BUTTON_FONT = pygame.font.Font(FONT_NAME_PATH, 30)
+TEXT_FONT = pygame.font.Font(FONT_NAME_PATH, 17)
+PLAYER_TURN_FONT = pygame.font.Font(FONT_NAME_PATH, 40)
 SYMBOLS_FONT = pygame.font.SysFont("segoeuisymbol",30)
 
 PLAY_BUTTON_TEXT = "PLAY"
