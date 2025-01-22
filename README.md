@@ -1,6 +1,8 @@
 # ❋ Four-field Kono Game
 Four-field Kono point-and-click game made in Python (using pygame) for a university CS assignment. The game is human vs. computer. 
 
+Can also find the game on itch.io at [https://evel4net.itch.io/four-field-kono](https://evel4net.itch.io/four-field-kono).
+
 ## About four-field kono
 Four-field Kono is a korean strategy game being recorded to have been played since the late 19th century. The game is played on a 4x4 board with 16 pieces: 8 black pieces and 8 white pieces.
 
